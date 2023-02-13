@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welcome to your new dbt project!
 
 ### Using the starter project
@@ -13,3 +14,7 @@ Try running the following commands:
 - Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+=======
+# dbtlearn
+#Learning dbt using snowflake
+>>>>>>> d84d473b8b3898ed6896a11f8a8bcb8417fee549
